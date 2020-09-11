@@ -14,6 +14,19 @@
     background: #eee;
 }
 
+.whos-turn{
+    background-color: gray;
+    color: #fff;
+    font-size: 2em;
+    padding: 30px;
+    text-align: center;
+    position: relative;
+    height: auto;
+    min-height: 50px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
 .tictactoe-display{
     background-color: #222222;
     color: #fff;
